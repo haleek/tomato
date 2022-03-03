@@ -29,7 +29,7 @@ SECRET_KEY = '-0b)p%uu0w^c4i7lq%kpr4^70v5lhyq7)=q=z1+1u@&8by0fe3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tomatokiza.herokuapp.com','127.0.0.1']
 
 
 # Application definition

@@ -4,4 +4,5 @@ opencv-python==4.5.5.62
 pandas==1.3.4
 tensorflow-cpu==2.4.0
 numpy
+django-heroku==0.3.1
 
